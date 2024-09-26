@@ -7,7 +7,7 @@ public class CardCell extends Cell {
         setName(name);
         this.type = type;
     }
-    
+    //a
     public void playAction() {
     }
     
